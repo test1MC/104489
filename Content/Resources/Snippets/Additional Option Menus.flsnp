@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="328" MadCap:lastWidth="1424">
+    <body>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col style="width: 210px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td style="text-align: right;"><b>Name:</b>
+                    </td>
+                    <td>Lists the name of the available items</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;">
+                        <img src="../Images Form Templates/Up Down arrow.jpg" />
+                    </td>
+                    <td>Sort arrows re-arrange data by the column selected</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;">
+                        <img src="../Images Form Templates/Down Arrow.jpg" />
+                    </td>
+                    <td>A down arrow will sort numeric data 1-10 and alphabetic data A-Z</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;">
+                        <img src="../Images Form Templates/Up arrow.jpg" />
+                    </td>
+                    <td>An up arrow will sort numeric data 10-1 and alphabetic data Z-A</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;"><b>FileName:</b>
+                    </td>
+                    <td>Lists the file name with the extension associated with that file name</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;"><b>Page Count:</b>
+                    </td>
+                    <td>Total number of pages included with this template</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;"><b>Available for Use:</b>
+                    </td>
+                    <td>If checked, the item is available to be used. If not checked, this item has restrictions and is not currently available for use.</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;"><b>Sync Status:</b>
+                    </td>
+                    <td>Two options are available: Verified indicates the item exists in the FormFast system. The second option "Delete" means the item is not found in the FormFast system.</td>
+                </tr>
+                <tr>
+                    <td style="text-align: right;"><b>More Dropdown:</b>
+                    </td>
+                    <td>This dropdown offers two additional choices (see below)</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

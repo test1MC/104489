@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="191" MadCap:lastWidth="1466">
+    <body>
+        <p>
+            <h3>Other Possible Screen Features/Options</h3>
+        </p>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col style="width: 66px;" />
+            <col style="width: 89px;" />
+            <col style="width: 93px;" />
+            <col style="width: 122px;" />
+            <col style="width: 49px;" />
+            <col style="width: 163px;" />
+            <col style="width: 51px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../Images Care Checklists/New button.jpg" />
+                    </td>
+                    <td>New</td>
+                    <td>
+                        <img src="../Images Common/Import Icon.jpg" />
+                    </td>
+                    <td>Import</td>
+                    <td>
+                        <img src="../Images Care Checklists/List View Controls icon.jpg" />
+                    </td>
+                    <td>List View Controls</td>
+                    <td style="text-align: center;">
+                        <img src="../Images Care Checklists/filter icon.jpg" />
+                    </td>
+                    <td>Refresh</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">
+                        <img src="../Images Care Checklists/Edit icon.jpg" />
+                    </td>
+                    <td>Edit List</td>
+                    <td style="text-align: center;">
+                        <img src="../Images Care Checklists/show charts.jpg" />
+                    </td>
+                    <td>Show Charts</td>
+                    <td style="text-align: center;">
+                        <img src="../Images Care Checklists/filter icon.jpg" />
+                    </td>
+                    <td>Show Filters</td>
+                    <td>
+                        <p style="text-align: right;">Search</p>
+                        <p style="text-align: right;">Box:</p>
+                    </td>
+                    <td>
+                        <img src="../Images Common/search box.jpg" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

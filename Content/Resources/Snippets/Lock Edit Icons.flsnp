@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../Images Common/edit icon selected.jpg" />
+                    </td>
+                    <td>
+                        <p>
+                            <b> Edit Icon:</b> An Edit Icon next to a field means the user is able to edit the data in this field. In some cases a pop-up window will open for editing. In other cases edits can be made directly on the existing field.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../Images Common/Lock Icon.jpg" />
+                    </td>
+                    <td>
+                        <b> Lock Icon: </b>The Lock Icon indicates the field is locked and unavailable for editing.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="1086" MadCap:lastWidth="1241">
+    <head>
+    </head>
+    <body>
+        <h1>SalesForce Org Post-Install Manual Steps</h1>
+        <p>1. Login to the target org
+</p>
+        <p>2. Change default Contact page layout to "FormFast"
+
+</p>
+        <blockquote>
+            <p>SETUP &gt; Customize &gt; Page Layouts &gt; Page Layout Assignment
+
+</p>
+        </blockquote>
+        <blockquote>
+            <p>Edit Assignment and set all profiles to “FormFast Contact Layout”
+</p>
+        </blockquote>
+        <p>3.	Create a new permission set “FormFast User Local”
+
+Add Assigned Connected </p>
+        <blockquote>
+            <p>App “Form Fast”
+</p>
+        </blockquote>
+        <p>4.	Assign permission sets to users as needed</p>
+        <blockquote>
+            <p><b>Admins</b> - FormFast Admin
+</p>
+            <p><b>Users</b> - FormFast User
+</p>
+            <p><b>Users</b> - FormFast User Local
+
+</p>
+        </blockquote>
+        <p>&#160;</p>
+        <table style="width: 100%;">
+            <col style="width: 46px;" />
+            <col style="width: 50%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../../Resources/Images/Important Tip Yellow Lightbulb.jpg" />
+                    </td>
+                    <td><i>Users should be assigned both User permission sets</i>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Admin users should also be assigned Admin permission set
+</p>
+        <p>5.	Change the OAuth policy for form_fast connected app
+</p>
+        <blockquote>
+            <p>
+SETUP &gt; Administration Setup &gt; Manage Apps &gt; Connected Apps
+
+</p>
+            <p>Edit “Form Fast” connected app
+
+</p>
+            <p>Change Oauth Policies &gt; Permitted Users to “Admin approved users are pre-authorized”
+</p>
+        </blockquote>
+        <p>6.	Add whitelist for origin point (FF Server).
+
+</p>
+        <blockquote>
+            <p>SETUP &gt; Administration Setup &gt; Security Controls &gt; CORS
+
+</p>
+            <p>Click New
+</p>
+            <p>
+Enter address of server.  For FF test server use https://52.26.20.56
+
+</p>
+        </blockquote>
+        <p>&#160;</p>
+        <table style="width: 100%;">
+            <col style="width: 57px;" />
+            <col style="width: 50%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../../Resources/Images/Important Tip Yellow Lightbulb.jpg" />
+                    </td>
+                    <td><i>Without this step, archiving a document (with attachment) will fail</i>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

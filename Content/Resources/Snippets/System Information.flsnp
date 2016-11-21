@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="393" MadCap:lastWidth="1466">
+    <body>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <h3>System Information Menu</h3>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../Images Welcome/System Information Menu.jpg" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>The System Information Menu is available on most menu screens. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>This dropdown shows Created By information and Last Modified information.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><b>Created By:</b> Identifies which user and on what system date and time the user created the item (form, checklist, event, etc). This name is a selectable field. Clicking the blue text link will open the <b>User Details</b> screen with Chatter information and Contact about this User. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><b>Last Modified By:</b> Identifies which user and on what system date and time the user last modified the item (form, checklist, event, etc). his name is a selectable field. Clicking the blue text link will open the <b>User Details</b> screen with Chatter information and Contact about this User. </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

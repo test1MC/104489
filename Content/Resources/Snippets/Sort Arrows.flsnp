@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col style="width: 34px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../Images Form Templates/Up Down arrow.jpg" />
+                    </td>
+                    <td>
+                        <b>Sort Arrows:</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">
+                        <img src="../Images Form Templates/Down Arrow.jpg" />
+                    </td>
+                    <td>
+                        <b>Down Arrow:</b> A Down Arrow will sort numeric data 1-10 and alpha data A-Z</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">
+                        <img src="../Images Form Templates/Up arrow.jpg" />
+                    </td>
+                    <td>
+                        <b>Up Arrow:</b> An Up Arrow will sort numeric data 10-1 and alpha data Z-A</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../Images Form Templates/Cancel Save and New Save.jpg" />
+                    </td>
+                    <td>
+                        <p>From the bottom of the Edit pop up screen, the user will have the option to abort their changes by clicking the CANCEL button.</p>
+                        <p>Save changes by clicking the SAVE button. This will adjust the "Last Modified" information accordingly.</p>
+                        <p>Save the existing changes and start work on a new item by clicking the SAVE &amp; NEW button.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

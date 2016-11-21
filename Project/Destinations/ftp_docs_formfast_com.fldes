@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination for FormFast Connect"
+  Host="ftp.formfast.com"
+  User="MyAccountId"
+  Password=""
+  Directory="connect"
+  Port="21"
+  ViewUrl="http://docs.formfast.com"
+  Type="ftp"></CatapultDestination>

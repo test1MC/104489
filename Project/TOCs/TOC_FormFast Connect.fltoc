@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/00_Welcome/1_Welcome.htm">
+    <TocEntry
+      Title="Welcome"
+      Link="/Content/00_Welcome/1_Welcome.htm" />
+    <TocEntry
+      Title="Legal Notices"
+      Link="/Content/00_Welcome/2_Legal Notices.htm"></TocEntry>
+    <TocEntry
+      Title="Getting Started"
+      Link="/Content/00_Welcome/4_Getting Started.htm" />
+    <TocEntry
+      Title="Connect Basics"
+      Link="/Content/00_Welcome/3_Connect Basics/FormFast Connect Structure.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Care Coordinator View"
+    Link="/Content/01_Care Coordinator View/0_Care Coordinator View.htm">
+    <TocEntry
+      Title="Care Coordinator View"
+      Link="/Content/01_Care Coordinator View/0_Care Coordinator View.htm" />
+    <TocEntry
+      Title="Care Steps"
+      Link="/Content/01_Care Coordinator View/02_Care Steps/Create a Template Care Step.htm">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Care Events"
+      Link="/Content/01_Care Coordinator View/02a_Care Events/Create a Care Event.htm">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Checklists"
+      Link="/Content/01_Care Coordinator View/03_Checklists/Working with Checklists.htm">
+      <TocEntry
+        Title="Assigning a Templated Checklist to a Care Event"
+        Link="/Content/01_Care Coordinator View/03_Checklists/Assigning a Templated Checklist to a Care Event.htm" />
+      <TocEntry
+        Title="Building Your First Checklist"
+        Link="/Content/01_Care Coordinator View/03_Checklists/Building Your First Checklist.htm"></TocEntry>
+      <TocEntry
+        Title="Create a Templated Checklist"
+        Link="/Content/01_Care Coordinator View/03_Checklists/Create a Template Checklist.htm" />
+      <TocEntry
+        Title="Working with Checklists"
+        Link="/Content/01_Care Coordinator View/03_Checklists/Working with Checklists.htm" />
+      <TocEntry
+        Title="Working with the Checklist Library"
+        Link="/Content/01_Care Coordinator View/03_Checklists/Working with the Checklist Library.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Menus"
+      Link="/Content/01_Care Coordinator View/04_Menus/0_Menus.htm">
+      <TocEntry
+        Title="Menus"
+        Link="/Content/01_Care Coordinator View/04_Menus/0_Menus.htm" />
+      <TocEntry
+        Title="Chatter Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/a_Chatter Menu.htm" />
+      <TocEntry
+        Title="Accounts Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/b_Accounts Menu.htm" />
+      <TocEntry
+        Title="Contacts Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/c_Contacts Menu.htm" />
+      <TocEntry
+        Title="Connect Dashboard Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/d_Connect Dashboard Menu.htm" />
+      <TocEntry
+        Title="Care Events Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/e_Care Events Menu.htm" />
+      <TocEntry
+        Title="Care Checklists Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/f_Care Checklists Menu.htm" />
+      <TocEntry
+        Title="Care Steps Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/g_Care Steps Menu.htm" />
+      <TocEntry
+        Title="Forms Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/h_Forms Menu.htm" />
+      <TocEntry
+        Title="Form Templates Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/i_Form Templates Menu.htm" />
+      <TocEntry
+        Title="FormFast Settings Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/j_FormFast Settings Menu.htm" />
+      <TocEntry
+        Title="FormSync Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/k_FormSync Menu.htm" />
+      <TocEntry
+        Title="Reports Menu"
+        Link="/Content/01_Care Coordinator View/04_Menus/l_Reports Menu.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Patient View"
+    Link="/Content/02_Patient View/Working With Patients.htm">
+    <TocEntry
+      Title="Adding Patients Manually"
+      Link="/Content/02_Patient View/Adding Patients Manually.htm"
+      ReplaceMergeNode="false" />
+    <TocEntry
+      Title="Enable a Patient as a Community Member"
+      Link="/Content/02_Patient View/Enable a Patient as a Community Member.htm" />
+    <TocEntry
+      Title="Patient Login"
+      Link="/Content/02_Patient View/Patient Login.htm"></TocEntry>
+    <TocEntry
+      Title="Searching for a Patient"
+      Link="/Content/02_Patient View/Search for a Patient.htm" />
+    <TocEntry
+      Title="The Connect Dashboard"
+      Link="/Content/02_Patient View/The Connect Dashboard.htm" />
+    <TocEntry
+      Title="View Community Member Information"
+      Link="/Content/02_Patient View/View Community Member Information.htm"></TocEntry>
+    <TocEntry
+      Title="Working with Patients"
+      Link="/Content/02_Patient View/Working With Patients.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Provider View"
+    ReplaceMergeNode="false"
+    Link="/Content/03_Provider View/Working with Physicians and Practices.htm">
+    <TocEntry
+      Title="Assign a Physician to a Patient"
+      Link="/Content/03_Provider View/Assign a Physician to a Patient.htm" />
+    <TocEntry
+      Title="Care Coordinator's Main Screen"
+      Link="/Content/03_Provider View/Care Co-ordinator's Main Screen.htm" />
+    <TocEntry
+      Title="Create a Physician"
+      Link="/Content/03_Provider View/Creating a Physician.htm"></TocEntry>
+    <TocEntry
+      Title="Create a Practice"
+      Link="/Content/03_Provider View/Creating a Practice.htm"></TocEntry>
+    <TocEntry
+      Title="Enabling a Physician as a Community User"
+      Link="/Content/03_Provider View/Enabling a Physician as a Community User.htm" />
+    <TocEntry
+      Title="Individual Patient Screen"
+      Link="/Content/03_Provider View/Individual Patient Screen.htm" />
+    <TocEntry
+      Title="Working with Physicians and Practices"
+      Link="/Content/03_Provider View/Working with Physicians and Practices.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Administration"
+    Link="/Content/02_Patient View/The Connect Dashboard.htm">
+    <TocEntry
+      Title="User Management"
+      Link="/Content/08_Administration/User Overview.htm">
+      <TocEntry
+        Title="Create a Platform User"
+        Link="/Content/08_Administration/Create a Platform User.htm" />
+      <TocEntry
+        Title="User Overview"
+        Link="/Content/08_Administration/User Overview.htm"></TocEntry>
+      <TocEntry
+        Title="Resetting Community Member Passwords"
+        Link="/Content/08_Administration/Resetting Community Member Passwords.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Application Settings">
+      <TocEntry
+        Title="E-mail Templates" />
+    </TocEntry>
+    <TocEntry
+      Title="Software Installation and Configuration"
+      Link="/Content/08_Administration/07_Software Installation and Configuration/Installing the Package.htm">
+      <TocEntry
+        Title="Canvas Connector Setup"
+        Link="/Content/08_Administration/07_Software Installation and Configuration/Canvas Connector Setup.htm" />
+      <TocEntry
+        Title="FormFast Integration Architecture"
+        Link="/Content/08_Administration/07_Software Installation and Configuration/FormFast Integration Architecture.htm" />
+      <TocEntry
+        Title="Installing the Package"
+        Link="/Content/08_Administration/07_Software Installation and Configuration/Installing the Package.htm" />
+      <TocEntry
+        Title="SalesForce Org Post-Install Community Setup"
+        Link="/Content/08_Administration/07_Software Installation and Configuration/SalesForce Org Post-Install Community Setup.htm" />
+      <TocEntry
+        Title="SalesForce Org Post-Install Manual Steps"
+        Link="/Content/08_Administration/07_Software Installation and Configuration/SalesForce Org Post-Install Manual Steps.htm" />
+      <TocEntry
+        Title="SalesForce Org Prerequisites"
+        Link="/Content/08_Administration/07_Software Installation and Configuration/SalesForce Org Prerequisites.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="More Information"
+    Link="/Content/09_More Information/01_More Information.htm">
+    <TocEntry
+      Title="Company Information"
+      Link="/Content/09_More Information/02_Company Information.htm" />
+    <TocEntry
+      Title="FAQs"
+      Link="/Content/09_More Information/03_FAQs.htm" />
+  </TocEntry>
+</CatapultToc>

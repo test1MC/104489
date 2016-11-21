@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="FormFast, Inc">FormFast, Inc</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="800 218 3512">800 218 3512</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress"
+    EvaluatedDefinition="13421 Manchester Road, Suite 218">13421 Manchester Road, Suite 218</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName"
+    EvaluatedDefinition="FormFast">FormFast</Variable>
+  <Variable
+    Name="Fax"
+    Comment=""
+    OriginalName="Fax"
+    EvaluatedDefinition="Fax 866-538-3329">Fax 866-538-3329</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="St. Louis, MO">St. Louis, MO</Variable>
+  <Variable
+    Name="UserGuideTitle"
+    Comment="">User Guide A</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot">1.0</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-12-31T09:28:31.1216229-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>

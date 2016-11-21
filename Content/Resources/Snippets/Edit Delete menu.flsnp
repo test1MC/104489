@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="199" MadCap:lastWidth="1104">
+    <body>
+        <p> </p>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td rowspan="2">
+                        <img src="../Images Form Templates/More dropdown.jpg" />
+                    </td>
+                    <td><b>Edit: </b>When selected the edit option opens the <b>Edit</b> pop up screen for the selected item. From this screen every field showing on the screen can be edited. This pop up also indicates by whom and when this item was created. It further indicates when it was last modified, by whom and when.</td>
+                </tr>
+                <tr>
+                    <td><b>Delete:</b> If the Delete option is selected a second chance dialog box will open to confirm deletion of this item. You can Cancel out of the screen to avoid deletion or confirm the delete action by clicking DELETE.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,787 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term1"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Administration Module</Term>
+    </Terms>
+    <Definition
+      Link="">The Administration Module allows all UserIDs to be in one system and people (UserIDs) with Enterprise access will be able to access any UserID from any Application.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term2"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Alias Categories</Term>
+    </Terms>
+    <Definition
+      Link="">Alias Category is a defined name to hold a group of alias printers.  This is a way of organizing your system's printers.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term3"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Capture Client</Term>
+    </Terms>
+    <Definition
+      Link="">The Capture Client/e-Signature capture/encryption software and devices allows the User to create and utilize digital code that uniquely identifies and authenticates the signer’s signature</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term4"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Favorites</Term>
+    </Terms>
+    <Definition
+      Link="">Frequently used "Jobs" and/or "Forms" applied by an individual User Name.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term5"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Groups</Term>
+    </Terms>
+    <Definition
+      Link="">A means of organizing "User Names" in like areas of processing allowing for the generalized treatment of a group of "User Names" instead of managing each "User Name" individually.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term6"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Hyperlink</Term>
+    </Terms>
+    <Definition
+      Link="">An element in an electronic document that links to another place in the same document or to an entirely different document, video, website, etc.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term7"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Job Tree</Term>
+    </Terms>
+    <Definition
+      Link="">Structure designed to provide a directory method of organizing a "Job" within WFI and Client Server FormImprint.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term8"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Jobs</Term>
+    </Terms>
+    <Definition
+      Link="">A Job is a packet of forms to be filled and printed as a group.  i.e., Admissions Packet.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term9"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Leaf</Term>
+    </Terms>
+    <Definition
+      Link="">A Job is a packet of forms to be filled and printed as a group.  i.e., Admissions Packet.  A Job leaf is one of the forms within the Job packet.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term10"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Menu Process Buttons</Term>
+    </Terms>
+    <Definition
+      Link="">Dropdown menu links used to execute different processes.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term11"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Operand</Term>
+    </Terms>
+    <Definition
+      Link="">Operands are the objects that are manipulated.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term12"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Packet</Term>
+    </Terms>
+    <Definition
+      Link="">A Packet (Job Packet) is a grouping of forms to be filled and printed as a group.  i.e., Admissions Packet.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term13"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Patient Filter</Term>
+    </Terms>
+    <Definition
+      Link="">The Patient Filter is a secondary filter configured to limit what patients are visible in the patient grid If the Filter icon is enabled, the end user can view their Filtered Patient list.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term14"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Repeat Count</Term>
+    </Terms>
+    <Definition
+      Link="">This count will set the number of times a "Job" and/or "Form" will print.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term15"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Patient Grid</Term>
+    </Terms>
+    <Definition
+      Link="">The Patient Grid is a spreadsheet-like display of data stored in the Client Server FormImprint database.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term16"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Token</Term>
+    </Terms>
+    <Definition
+      Link="">In programming languages, a single element of a programming language. For example, a token could be a keyword, an operator, or a punctuation mark. In networking, a token is a special series of bits that travels around a token-ring network. As the token circulates, computers attached to the network can capture it. The token acts like a ticket, enabling its owner to send a message across the network. There is only one token for each network, so there is no possibility that two computers will attempt to transmit messages at the same time.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term17"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>URL</Term>
+    </Terms>
+    <Definition
+      Link="">Abbreviation of Uniform Resource Locator, it is the global address of documents and other resources on the World Wide Web.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term18"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>User Name</Term>
+    </Terms>
+    <Definition
+      Link="">"User Name" is the equivalent of a "UserID".  The User Name is assigned by the System Administrator.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term19"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Users</Term>
+    </Terms>
+    <Definition
+      Link="">A "User" is the person performing an action.  See User Name.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term20"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>WFI</Term>
+    </Terms>
+    <Definition
+      Link="">Web FormImprint is the Intranet version of FormFast's FormImprint software. Use of WFI allows your organization to process and eSign forms using Intranet technology.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term21"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>FormFast Capture</Term>
+    </Terms>
+    <Definition
+      Link="">An interactive “smart paper” solution which allows a user to quickly convert paper forms into electronic “smart” forms with the ability to input data, edit, sign, remove signatures, save, route and re-route inputted data.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term22"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>License</Term>
+    </Terms>
+    <Definition
+      Link="">Licenses can be purchased to create premium forms in the FormFast Capture product.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term0"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Action Process Button</Term>
+    </Terms>
+    <Definition
+      Link="">Action Process Buttons are found in the lower left-hand frame of the FastFlow screen.  Clicking most Action Process Buttons will result in new menu options available for use.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term23"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Ad Hoc</Term>
+    </Terms>
+    <Definition
+      Link="">For the specific purpose, case, or situation at hand and for no other, formed for or concerned with one specific thing.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term24"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Administrator</Term>
+    </Terms>
+    <Definition
+      Link="">An Administrator is a user with the access rights to make changes, create merges, jobs, printer aliases, establish/update/delete Users and designates criteria for printing needs.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term25"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>ADO</Term>
+    </Terms>
+    <Definition
+      Link="">Short for ActiveX Data Objects, Microsoft's newest high-level interface for data objects. ADO is more general and can be used to access all sorts of different types of data, including web pages, spreadsheets, and other types of documents. 
+ADO is designed to provide a consistent way of accessing data regardless of how the data are structured.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term26"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>ADO String Name</Term>
+    </Terms>
+    <Definition
+      Link="">The naming convention used to identify a particular ADO database.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term27"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Application Dashboard</Term>
+    </Terms>
+    <Definition
+      Link="">The operational location/feature(s) which defines where the specific application is processed (i.e., Application Dashboard name, documents/forms, reports, archiving, inbox processing, workflow, specialized grid views, dashboard editing etc...).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term28"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Application Dashboards</Term>
+    </Terms>
+    <Definition
+      Link="">Used to access the numerous Pre-Built Applications.  These are applications built by FormFast and purchased for instant use by your company.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term29"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Auto Mapping</Term>
+    </Terms>
+    <Definition
+      Link="">The act of Auto Mapping is to make logical connections between two entities. The activity of translating from one connection to another is called mapping.
+Auto mapping refers to the process of the system automatically mapping from one entity to the other.
+For our purposes, auto-mapping is a process that prefills data from a database to a form field with little or no prompting from the User.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term30"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Autogenerate</Term>
+    </Terms>
+    <Definition
+      Link="">Autogenerating is the act of automatically generating necessary paperwork.  For example, billing might Autogenerate a copy of a bill for its files, for the insurance company and for the patient.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term31"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Bit-Map</Term>
+    </Terms>
+    <Definition
+      Link="">A bit-map is a representation, consisting of rows and columns of dots, of a graphics image in computer memory. The value of each dot (whether it is filled in or not) is stored in one or more bits of data. For simple monochrome images, one bit is sufficient to represent each dot, but for colors and shades of gray, each dot requires more than one bit of data. The more bits used to represent a dot, the more colors and shades of gray that can be represented. 
+The density of the dots, known as the resolution, determines how sharply the image is represented. This is often expressed in dots per inch (dpi) or simply by the number of rows and columns, such as 640 by 480.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term32"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Custom Setting Definitions</Term>
+    </Terms>
+    <Definition
+      Link="">This feature in the User process allows each organization to add organization specific fields available to organizational and/or personnel information about each recipient of a FastFlow UserID (i.e., Home address, home or cell phone number, alternate email address, etc.).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term33"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Dashboard</Term>
+    </Terms>
+    <Definition
+      Link="">A user interface that organizes and presents information in a way that is easy to ready and is interactive.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term34"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Data Repository Client Software</Term>
+    </Terms>
+    <Definition
+      Link="">Data Repository Client Software is a FormFast developed software built to allow the uploading of support TIF images of “forms” and/or “reports” to applications having been developed to allow documents to be linked to a specific workflow envelope.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term35"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Data Schema</Term>
+    </Terms>
+    <Definition
+      Link="">Data Schema is the structure of a database system, described in a formal language supported by the database management system (DBMS). In a relational database, the schema defines the tables, the fields in each table, and the relationships between fields and tables. 
+Schemas are generally stored in a data dictionary. Although a schema is defined in text database language, the term is often used to refer to a graphical depiction of the database structure.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term36"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Data Storage (Final Disposition)</Term>
+    </Terms>
+    <Definition
+      Link="">Form field data can be stored in a database row/column.  Data Storage is a Step Action and a Final Disposition feature which within FastFlow allows for the retaining of the completed form field data to be stored in a database defined to your system via the FastFlow Connection feature.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term37"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Database</Term>
+    </Terms>
+    <Definition
+      Link="">Database is often abbreviated as DB. A collection of information organized in such a way that a computer program can quickly select desired pieces of data. You can think of a database as an electronic filing system. 
+Traditional databases are organized by fields, records, and files. A field is a single piece of information; a record is one complete set of fields; and a file is a collection of records.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term38"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Database Field</Term>
+    </Terms>
+    <Definition
+      Link="">Traditional databases are organized by fields, records, and files. A field is a single piece of information; a record is one complete set of fields; and a file is a collection of records. For example, a telephone book is analogous to a file. It contains a list of records, each of which consists of three fields: name, address, and telephone number.   A Database Field can be linked to a Form Field in the FastFlow Workflow process in order to prefill selected data.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term39"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>DBA</Term>
+    </Terms>
+    <Definition
+      Link="">Short for database administrator is the title given to the person responsible for managing many aspects of a database including archiving, performance, security, testing and other tasks.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term40"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Department Forms Administrator</Term>
+    </Terms>
+    <Definition
+      Link="">A person granted "Site Administrator" authority to their UserID by the FastFlow Site Administrator.  This person would most likely maintain and oversee the layout, input and flow of documents and forms used and/or originated within their department.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term41"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Departmentalize</Term>
+    </Terms>
+    <Definition
+      Link="">To Departmentalize is to divide or organize into departments.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term42"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Email</Term>
+    </Terms>
+    <Definition
+      Link="">An Email is the mechanism by which electronic messages can be conveyed between locations.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term43"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Envelope</Term>
+    </Terms>
+    <Definition
+      Link="">In a workflow environment, an envelope acts as a "file" that might be passed along among various people in its path to becoming complete.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term44"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>eSignature</Term>
+    </Terms>
+    <Definition
+      Link="">eSignature is short for Electronic Signature.  The 2001 Electronic Signature Act accords online "electronic" signatures the same legal status as a formal signature scrawled out on a paper document.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term45"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Expression</Term>
+    </Terms>
+    <Definition
+      Link="">In computing, an expression is any legal combination of symbols that represents a value.  Expressions are often classified by the type of value they represent. For example:
+- Boolean expressions: Evaluate to either TRUE or FALSE
+- Integer expressions: Evaluate to whole numbers, like 3 or 100
+- Floating-point expressions: Evaluate to real numbers, like 3.141 or -0.005
+- String expressions: Evaluate to character strings</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term46"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>FastFlow Site Administrator</Term>
+    </Terms>
+    <Definition
+      Link="">A FastFlow Site Administrator is the person who oversees the access to and the maintenance of FastFlow.  This person has expanded access to the site and the authority to provide others with this same access.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term47"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>FastFlow/WorkFlow</Term>
+    </Terms>
+    <Definition
+      Link="">FastFlow/Workflow is the defined series of tasks within an organization to produce a final outcome. Sophisticated workgroup computing applications allow you to define different workflows for different types of jobs. At each stage in the workflow, one individual or group is responsible for a specific task. Once the task is complete, the workflow software ensures that the individuals responsible for the next task are notified and receive the data they need to execute their stage of the process.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term48"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Fill Text Box</Term>
+    </Terms>
+    <Definition
+      Link="">In graphical user interfaces, a box is an enclosed area, resembling a window, on the screen. A fill-text box is a box that requests some type of information from you. This box can either be typed in or can be prefilled via the FastFlow Workflow process.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term49"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Folder Attributes</Term>
+    </Terms>
+    <Definition
+      Link="">A set of identifiers / index values that are associated with a Folder.  Folder Attributes will be things that users typically search for like Name, DOB, Department, etc...  We recommend five or less Folder Attributes.  Folder attributes are not applied to each sub-folder within the tree.  It is more of a top-level attribute.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term50"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Folder Index</Term>
+    </Terms>
+    <Definition
+      Link="">This folder attribute is unique to a specific folder.  For example, this might be an Employee Number or SSN.  A folder index can be comprised of multiple unique identifiers.  Each Application must have at least one Folder Index.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term51"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Form Field</Term>
+    </Terms>
+    <Definition
+      Link="">Form fields can be filled by selecting options with a pointing device or typing in text from the computer keyboard or can be pre-filled by connecting the Form to a database that collects data and then transfer’s specific data to specifically mapped fields on a Form.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term52"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Form versus Document</Term>
+    </Terms>
+    <Definition
+      Link="">A FORM, for our purposes, is a paper with blank spaces to be filled in with particulars before it is executed a DOCUMENT; in this situation is written or printed paper furnishing information.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term53"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Frame</Term>
+    </Terms>
+    <Definition
+      Link="">A Frame refers to dividing the browser display area into separate sections, each of which is really a different Web page.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term54"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Hashing</Term>
+    </Terms>
+    <Definition
+      Link="">Hashing summarizes text into a short fingerprint that can't be decrypted.  With a hashed fingerprint, there is no way to know exactly which text was summarized even though any given text always produces the same fingerprint.   Hashing can be compared to a minimalistic form of encryption.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term55"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>http</Term>
+    </Terms>
+    <Definition
+      Link="">Short for Hypertext Transfer Protocol, the underlying protocol used by the World Wide Web. HTTP defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands. For example, when you enter a URL in your browser, this actually sends an HTTP command to the Web server directing it to fetch and transmit the requested Web page.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term57"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Initiator</Term>
+    </Terms>
+    <Definition
+      Link="">An Initiator is the person who is in control of the workflow.  The person, who initiates the beginning of the workflow, assigns participants, has Abort capabilities and is ultimately responsible for the disposition of the envelope.  Initiator and Originator are used interchangeably in this setting.  (see Originator)</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term58"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>IP Address</Term>
+    </Terms>
+    <Definition
+      Link="">An IP address is the identifier for a computer or device on a TCP/IP network. Networks using the TCP/IP protocol route messages based on the IP address of the destination. The format of an IP address is a 32-bit numeric address written as four numbers separated by periods. Each number can be zero to 255. For example, 1.160.10.240 could be an IP address. 
+Within an isolated network, you can assign IP addresses at random as long as each one is unique. However, connecting a private network to the Internet requires using registered IP addresses (called Internet addresses) to avoid duplicates.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term59"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Login</Term>
+    </Terms>
+    <Definition
+      Link="">Logging in refers to the opening window that requires the User name and password for entry into the software.  User names and passwords are case sensitive.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term60"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Logout</Term>
+    </Terms>
+    <Definition
+      Link="">Logging out refers to the closing of the window and the backing out of the User from the application.  It is recommended that every User Logout before leaving their workstation to ensure confidentiality of system records.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term61"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Mapping</Term>
+    </Terms>
+    <Definition
+      Link="">Mapping is to make logical connections between two entities. Because programs cannot translate directly from human concepts to computer numbers, they translate incrementally through a series of layers. Each layer contains the same amount of information as the layer above but in a form somewhat closer to the form that the computer understands. This activity of translating from one layer to another is called mapping.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term62"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Mnemonic</Term>
+    </Terms>
+    <Definition
+      Link="">A programming code that is easy to remember, as STO for “store.”</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term63"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Non-Interactive</Term>
+    </Terms>
+    <Definition
+      Link="">An option allowing a workflow launched from Content Management (CM) to bypass the Initiator step of the workflow. CM launched workflows are workflows initiated by Content Management via the CM HVScan Module, the CM Content Importer and/or the FastFlow CM Dispatches.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term64"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>ODBC</Term>
+    </Terms>
+    <Definition
+      Link="">Short for Open Database Connectivity, a standard database access method. The goal of ODBC is to make it possible to access any data from any application, regardless of which database management system (DBMS) is handling the data. ODBC manages this by inserting a middle layer, called a database driver, between an application and the DBMS. The purpose of this layer is to translate the application's data queries into commands that the DBMS understands. For this to work, both the application and the DBMS must be ODBC-compliant -- that is, the application must be capable of issuing ODBC commands and the DBMS must be capable of responding to them.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term65"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Originator</Term>
+    </Terms>
+    <Definition
+      Link="">In FastFlow a person who begins a workflow is called the "Originator" or the "Initiator".  "Originator" and "Initiator" are used interchangeably in this setting.  (see Initiator)</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term66"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Pageset</Term>
+    </Terms>
+    <Definition
+      Link="">This is a single document like a PDF or can be a grouping or "Set" of multiple "Pages" of tiffs.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term67"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Pageset Attributes</Term>
+    </Terms>
+    <Definition
+      Link="">A set of identifier values that are associated with a pageset.  This will be something like Doctype.  We recommend 5 or less Pageset Attributes.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term68"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Participant</Term>
+    </Terms>
+    <Definition
+      Link="">In a FastFlow-Workflow a participant is a stop along the workflow route.  A participant in a workflow will need to, at minimum, approve the document in the envelope in order to continue the envelope on its route.  A participant may also be required to attach documentation, eSign the document or perform some other action prior to passing the envelope off to the next participant or returning it to the workflow Initiator.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term69"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Participant Step Box</Term>
+    </Terms>
+    <Definition
+      Link="">The container on the Workflow Process chart used to store all related routing information/options for a route step.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term70"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>PDF</Term>
+    </Terms>
+    <Definition
+      Link="">Short for Portable Document Format, a file format developed by Adobe Systems. PDF captures formatting information from a variety of desktop publishing applications, making it possible to send formatted documents and have them appear on the recipient's monitor or printer as they were intended. To view a file in PDF format, you need Adobe Reader, a free application distributed by Adobe Systems. 
+www.adobe.com/downloads</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term71"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>PIN</Term>
+    </Terms>
+    <Definition
+      Link="">A personal identification number (PIN) is a numeric value that is used in certain systems to gain access, and authenticate. PINs are a type of password. Ignorance of the expansion of the acronym often leads to the erroneous usage PIN number, in which the accidental repetition of the final word is sometimes referred to as RAS syndrome.   PINs are (ideally) only known by the person who’s PIN it is, and are sufficiently hard to guess. The PIN should be such that a person or computer cannot guess it in sufficient time by using a guess and check method, where it guesses the PIN, and checks for correctness by testing it on the system that the person is attempting to gain access to.  PINs are most often used for ATMs. Throughout Europe the traditional in-store credit card signing process is being replaced with a 'Chip and PIN' system, where the customer is asked to enter their PIN code instead of signing. They are also sometimes used for online systems instead of alphanumeric passwords, which may compromise security. (See password for more details).  Most commonly PINs are 4-digit numbers in the range 0000-9999 resulting in 10,000 possible numbers, so that an attacker would need to guess an average of 5000 times to get the correct PIN.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term72"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Prefill</Term>
+    </Terms>
+    <Definition
+      Link="">To prefill is the act of automatically filling-in data on a document or form. Especially useful for repeated data like patient/physician names, addresses, social security numbers, account numbers, etc.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term73"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Process Buttons</Term>
+    </Terms>
+    <Definition
+      Link="">Buttons that are "pressed" or clicked-on that begin or continue a process.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term74"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Relational Database</Term>
+    </Terms>
+    <Definition
+      Link="">A type of database that stores data in the form of related tables. Relational databases are powerful because they require few assumptions about how data is related or how it will be extracted from the database. As a result, the same database can be viewed in many different ways. 
+An important feature of relational systems is that a single database can be spread across several tables. This differs from flat-file databases, in which each database is self-contained in a single table.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term75"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Root Folder</Term>
+    </Terms>
+    <Definition
+      Link="">The Root Folder will be a container that will hold subfolders and/or pagesets.  Each application must have a root folder.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFCapture.Term76"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Route</Term>
+    </Terms>
+    <Definition
+      Link="">A route is the path that a workflow follows in its journey to completion.  A route is the path of steps that must be completed in order for a process to finish.
+EXAMPLE: Check requisition filled out, sent to supervisor for approval, sent to accounting for disbursement.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary_FFConnect.Term0"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Care Event</Term>
+    </Terms>
+    <Definition
+      Link="">Care events are specific points of care along the care continuum, such as a procedure or operation. Care events can have one or more Care Checklists related to them, pre or post event.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

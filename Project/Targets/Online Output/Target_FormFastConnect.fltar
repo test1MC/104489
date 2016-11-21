@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="first"
+  MasterToc="/Project/TOCs/TOC_FormFast Connect.fltoc"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ConditionTagExpression="exclude[General.FFCapture or NewSet.FFCapture] "
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  MenuSkin="/Project/Skins/SideMenu.flskn"
+  SearchBarSkin="/Project/Skins/HomeSearchBar.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/ftp_docs_formfast_com.fldes" />
+  </Destinations>
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Glossary_FFConnect.flglo" />
+  </Glossaries>
+</CatapultTarget>

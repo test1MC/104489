@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col style="width: 388px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../Images Form Templates/Recently Viewed dropdown.jpg" />
+                    </td>
+                    <td>
+                        <p>A user can sort their form templates list by selecting one of the below:</p>
+                        <p>
+                            <b>All:</b> to view ALL Form Templates in the system</p>
+                        <p>
+                            <b>Recently Viewed:</b> Narrows the displayed list of templates to only those most recently viewed</p>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
